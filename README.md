@@ -2,7 +2,7 @@
  ## Open Source Audit Project
 
 ## Student Details
-Name: Brotodeep Pal
+Name: Brotodeep Pal <br />
 Registration Number: 24BCE10477 
 
 ## Chosen Software
