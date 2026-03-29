@@ -25,16 +25,16 @@ Reads a log file, counts errors, and displays last 5 matches.
 Script 5:
 Generates a personalized open-source manifesto based on user input.
 
- How to Run Scripts
+ ## How to Run Scripts
 
 Make scripts executable:
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ## Run scripts:
-./script1.sh 
-./script2.sh 
-./script3.sh 
-./script4.sh /var/log/syslog 
+./script1.sh <br />
+./script2.sh <br />
+./script3.sh <br />
+./script4.sh /var/log/syslog <br />
 ./script5.sh 
 
  ## Requirements
