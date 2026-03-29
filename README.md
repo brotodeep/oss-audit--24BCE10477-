@@ -1,14 +1,14 @@
 <<<<<<< HEAD
- Open Source Audit Project
+ ## Open Source Audit Project
 
- Student Details
+## Student Details
 Name: Brotodeep Pal
 Roll Number: 24BCE10477 
 
- Chosen Software
+## Chosen Software
 Python
 
- Scripts Description
+## Scripts Description
 
 Script 1:
 Displays system information like kernel, user, uptime, and OS details.
@@ -30,14 +30,14 @@ Generates a personalized open-source manifesto based on user input.
 Make scripts executable:
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
-Run scripts:
+## Run scripts:
 ./script1.sh 
 ./script2.sh 
 ./script3.sh 
 ./script4.sh /var/log/syslog 
 ./script5.sh 
 
- Requirements
+ ## Requirements
  Linux (Ubuntu / WSL)
  Python installed
 
