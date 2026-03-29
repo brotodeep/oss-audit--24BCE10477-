@@ -3,7 +3,7 @@
 
 ## Student Details
 Name: Brotodeep Pal
-Roll Number: 24BCE10477 
+Registration Number: 24BCE10477 
 
 ## Chosen Software
 Python
